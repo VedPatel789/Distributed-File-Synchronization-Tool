@@ -1,0 +1,6 @@
+SERVER_HOST = "0.0.0.0"
+SERVER_PORT = 5001
+
+BUFFER_SIZE = 4096
+
+SYNC_FOLDER = "sync_folder"
